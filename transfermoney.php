@@ -9,9 +9,6 @@
     <link rel="stylesheet" type="text/css" href="css/navbar.css">
 
     <style type="text/css">
-      /* *{
-          background-color: lightcyan;
-      } */
       button{
         transition: 1.5s;
       }
@@ -22,7 +19,7 @@
     </style>
 </head>
 
-<body style="background-color: lightcyan;">
+<body>
 <?php
     include 'config.php';
     $sql = "SELECT * FROM customers";

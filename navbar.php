@@ -1,5 +1,5 @@
 <!-- navbar --> 
-<nav class="navbar navbar-expand-md navbar-dark bg-dark">
+<nav style="background-color:#111111" class="navbar sticky-top navbar-expand-md navbar-dark ">
       <a class="navbar-brand" href="index.php">TSB</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
         <span class="navbar-toggler-icon"></span>

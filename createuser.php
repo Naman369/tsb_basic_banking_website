@@ -35,17 +35,18 @@
         <h2 class="text-center pt-4">Add Customer</h2>
         <br>
 
-  <div class="background">
-  <div  class="container">
-    <div  class="screen">
-      <div  class="screen-header">
+  <div class="background ">
+      
+  <div class="container">
+    <div class="screen">
+      <div class="screen-header">
         <div class="screen-header-right">
           <div class="screen-header-ellipsis"></div>
           <div class="screen-header-ellipsis"></div>
           <div class="screen-header-ellipsis"></div>
         </div>
       </div>
-      <div  class="screen-body" style="background-color:lightsteelblue;">
+      <div class="screen-body">
         <div class="screen-body-item left">
           <img class="img-fluid" src="img/user4.png" style="border: none; border-radius: 50%;">
         </div>
